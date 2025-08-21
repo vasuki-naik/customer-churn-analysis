@@ -1,4 +1,4 @@
-# Customer Churn Analysis - JPMC Internship Ready
+# Customer Churn Analysis
 
 import pandas as pd
 import numpy as np
